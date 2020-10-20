@@ -1,0 +1,26 @@
+[
+    {
+        "url": "./img/sport1.jpg",
+        "id": "sport1"
+    },
+    {
+        "url": "./img/sport2.jpg",
+        "id": "sport2"
+    },
+    {
+        "url": "./img/sport3.jpg",
+        "id": "sport3"
+    },
+    {
+        "url": "./img/sport4.jpg",
+        "id": "sport4"
+    },
+    {
+        "url": "./img/sport5.jpg",
+        "id": "sport5"
+    },
+    {
+        "url": "./img/sport6.jpg",
+        "id": "sport6"
+    }
+]
